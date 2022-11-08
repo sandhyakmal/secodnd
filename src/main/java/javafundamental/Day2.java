@@ -2,7 +2,7 @@ package javafundamental;
 
 import java.util.*;
 
-public class coba {
+public class Day2 {
 	public static void main (String args[]) {
 		String strA = "Tb@14XzM";
 		char[] charA = strA.toCharArray();
