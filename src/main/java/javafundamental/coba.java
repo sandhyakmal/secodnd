@@ -6,7 +6,7 @@ public class coba {
 	public static void main (String args[]) {
 		String strA = "Tb@14XzM";
 		char[] charA = strA.toCharArray();
-		//System.out.print(charA[1]);
+		System.out.println(charA[1]);
 		
 		int intB = 0;
 		for (int i=0;i<strA.length();i++) {
@@ -14,7 +14,7 @@ public class coba {
 				intB += charA[i];
 			}
 		}
-		//System.out.print(intB);
+		System.out.println(intB);
 		
 		Random ran = new Random();
 		int intX = 0;
