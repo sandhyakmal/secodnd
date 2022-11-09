@@ -30,7 +30,6 @@ public class Day2 {
 		
 		*/
 		Random ran = new Random();
-		int intX = 0;
 		char chY;
 		String strB = "";
 		for (int i = 0;i<9;i++) {
