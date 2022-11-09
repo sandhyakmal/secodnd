@@ -1,6 +1,6 @@
 package javafundamentalX;
 
-import java.util.*;
+import java.util.*; // menambahkan fungsi untuk random 
 
 public class Day2 {
 	public static void main (String args[]) {
@@ -16,6 +16,10 @@ public class Day2 {
 		}
 		System.out.println(intB);
 		
+		/*
+		 Membuat Fungsi Random untuk menampilkan Huruf Kapital, Kecil, dan Angka
+		
+		*/
 		Random ran = new Random();
 		int intX = 0;
 		char chY;
